@@ -1,1 +1,4 @@
-# PET-imaging-genetics
+# Multi-functional PET imaging genetics in Alzheimer's disease
+Alzheimer’s disease (AD) is usually developing gradually and getting worse over time. The ApoE genotype in the form of epsilon-4 is well-known considered as a genetic risk factor for AD. In addition, for the clinical diagnosis, PET/MRI is a comprehensive tool to identify AD by detecting the changing in brain. In the study, we examined single nucleotide polymorphisms (SNPs) based on the whole genome sequencing (WGS) data. We identified some SNPs that have significant association with quantitative traits (QTs) of PET imaging. The experiment demonstrates that the proposed SNPs can better map QTs of PET measurements than ApoE.
+
+The objective is to use longitudinal quantitative FDG and amyloid PET measurements to map genetic risk factors for Alzheimer's disease based on WGS data.
